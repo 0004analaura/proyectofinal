@@ -1,0 +1,12 @@
+P001|Leche|-2|DOS_PINOS|13.4
+P002|Huevos|38|Huevos S.A.|32
+Codigo del producto|Nombre del producto|Existencias|Proveedor|Precio
+P046|pan|10|Bimbo|20
+P036|pan|10|Bimbo|20
+P033|pan|10|Bimbo|20
+P233|pan dulce|-1|Bimbo|20
+P005|JAMON|0|BREMEN|9
+C011 |Salchicha|5|Criollo|8
+P012|CARNE|22|RES|25
+P013|PAPAS|6|LAYS|3
+P015|DULCES|9|HOLANDA|6
